@@ -14,3 +14,10 @@
 - Valid Parentheses Stack
 2. Assignment
 - Perform various operation on Stack according to user input.
+## Day3
+1. Practice
+- Queue, Enqueue, Dequeue
+- Hash Table, Separate Chaining
+- Practice Problem of Hash table concept regarding finding pattern from input string.
+2. Assignment
+- Shortest Job First Problem
