@@ -21,3 +21,6 @@
 - Practice Problem of Hash table concept regarding finding pattern from input string.
 2. Assignment
 - Shortest Job First Problem
+## Day4
+1. Practice
+- Hash Table
