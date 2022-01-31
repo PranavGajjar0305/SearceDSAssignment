@@ -24,3 +24,6 @@
 ## Day4
 1. Practice
 - Hash Table
+## Week2Day1
+1. Practice
+- Hash Table
