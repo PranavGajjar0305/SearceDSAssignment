@@ -27,3 +27,6 @@
 ## Week2Day1
 1. Practice
 - Hash Table
+## Week2Day2
+1. Practice
+- Sorting Algorithms: Insertion Sort, Bubble Sort, Selection Sort
