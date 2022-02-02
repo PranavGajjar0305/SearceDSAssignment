@@ -30,3 +30,8 @@
 ## Week2Day2
 1. Practice
 - Sorting Algorithms: Insertion Sort, Bubble Sort, Selection Sort
+## Week2Day3
+1. Practice
+- Binary Tree
+- HeapSort
+- Randomized QuickSort
