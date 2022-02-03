@@ -35,3 +35,6 @@
 - Binary Tree
 - HeapSort
 - Randomized QuickSort
+## Week2Day4
+1. Practice
+- Dynamic Programming
