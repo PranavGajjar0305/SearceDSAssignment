@@ -38,3 +38,6 @@
 ## Week2Day4
 1. Practice
 - Dynamic Programming
+## Week2Day5
+1. Practice
+- Hash Table
