@@ -1,4 +1,5 @@
 # SearceDSAssignment
+- Here Day1 to Day4 is for Week3. The directory name starts with Week2 is for Week3.
 ## Day1
 1. Practice
 - Array
@@ -41,3 +42,6 @@
 ## Week2Day5
 1. Practice
 - Hash Table
+## Week5Day1
+1. Practice
+- Basics of Python
